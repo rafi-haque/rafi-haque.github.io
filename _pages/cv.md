@@ -11,41 +11,35 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. in Computer Science, Khulna University of Engineering and Technology, 2018
+* Ph.D in Computer Science, Texas State University, 2025 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2018 - Summer 2020:
+  * EHorizonIT, Dhaka, Bangladesh 
+  * Duties included: Web Developer(MERN stack), Machine Learning architecture design
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* Spring 2020: Teaching Assistant
+  * Texas State University
+  * Supervisor: Dr. Mina S Guirguis 
+
+* Fall 2020: Teaching Assistant
+  * Texas State University
+  * Supervisor: Dr. Qijun Gu
+ 
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages: C, C++, Java, Python
+* Framework: ExpressJS, Metasploit Framework, BeEF 
+* Scripting Languages: Javascript, Bash
+* DBMS: MySQL, Oracle, SQLite, MongoDB 
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
 Teaching
@@ -56,4 +50,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Academic Team Member for Bangladesh Mathematical Olympiad
